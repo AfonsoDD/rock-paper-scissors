@@ -23,6 +23,6 @@ function getComputerChoice () {
 
 function getHumanChoice () {
     humanPlay = prompt("What is your play ? -");
-    console.log(humanPlay);
     return humanPlay;
 }
+
